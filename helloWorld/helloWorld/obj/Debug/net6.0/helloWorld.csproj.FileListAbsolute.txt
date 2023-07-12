@@ -1,0 +1,15 @@
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\bin\Debug\net6.0\helloWorld.exe
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\bin\Debug\net6.0\helloWorld.deps.json
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\bin\Debug\net6.0\helloWorld.runtimeconfig.json
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\bin\Debug\net6.0\helloWorld.dll
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\bin\Debug\net6.0\helloWorld.pdb
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.csproj.AssemblyReference.cache
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfoInputs.cache
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfo.cs
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.csproj.CoreCompileInputs.cache
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.dll
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\obj\Debug\net6.0\refint\helloWorld.dll
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.pdb
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\obj\Debug\net6.0\helloWorld.genruntimeconfig.cache
+D:\Documentos\MyProjectsTests\FullStack\IntroduccionaCsharp\helloWorld\helloWorld\obj\Debug\net6.0\ref\helloWorld.dll
